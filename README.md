@@ -31,8 +31,6 @@ The BRUEnKF demonstrated superior performance in handling sensor bias and asynch
 2.  **Robustness to Bias:** The BRUEnKF's trajectory was less affected by the biased camera sensor.
 3.  **Better Uncertainty Calibration:** The BRUEnKF maintained slightly higher, and potentially more realistic, uncertainty estimates, preventing overconfidence.
 
-![Trajectory Comparison](images/trajectory_plot.png)
-*Example visualization showing the true trajectory, filter estimates, and sensor readings.*
 
 ## Implementation Details
 
